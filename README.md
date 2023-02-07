@@ -1,6 +1,6 @@
 # Computational-Modeling-of-Gene-Regulatory-Networks
 
-This repository contains the code used to generate the results presented in Bocci, Jia, Nie, Jolly, Onuchic, "*Theoretical and computational tools to model multistable gene regulatory networks*", *Preprint*. We encourage to cite this publication if this code or your customization of the code make a contribution to your publication.
+This repository contains the code used to generate the results presented in Bocci, Jia, Nie, Jolly, Onuchic, "*Theoretical and computational tools to model multistable gene regulatory networks*", *Currently on Preprint*. We encourage to cite this publication if this code or your customization of the code make a contribution to your publication.
 
 The code is organized in two jupyter notebooks that contain tutorials for:
 
