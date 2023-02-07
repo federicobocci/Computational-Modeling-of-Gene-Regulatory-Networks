@@ -8,6 +8,6 @@ The code is organized in two jupyter notebooks that contain tutorials for:
 
 2) Deterministic and stochastic simulation of bistable toggle switch
 
-To use the code, you can download the repository and run the code locally on your machine. The *requirements.txt* file contains all the libraries that I installed in a my python virtual environment to run the code.
+To use the code, you can download the repository and run the code locally on your machine. The *requirements.txt* file contains all the libraries that I installed in my python virtual environment to run the code.
 
 Feel free to reach out for questions and comments via email at fbocci@uci.edu
